@@ -12,4 +12,4 @@
     <p>
     In this Task, we were provided a strictly canine subset of ImageNet in order to practice fine-grained image categorization. How well we can tell our Norfolk Terriers from our Norwich Terriers? With 120 breeds of dogs and a limited number training images per class, we might find the problem more, err, ruff than we anticipated.</p>
 
-[Kaggle competition link - containing the dataset and labels](https://www.kaggle.com/c/dog-breed-identification\)
+[Kaggle competition link - containing the dataset and labels] (https://www.kaggle.com/c/dog-breed-identification)
