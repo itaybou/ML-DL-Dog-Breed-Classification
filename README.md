@@ -2,7 +2,6 @@
  <div style="text-align: center;">
     <h1>Deep Learning Course - Assignment 1</h1>
     <h2>Dog Breed Identification</h2>
-    <h3>Submitted by: Itay Bouganim, Ido Rom and Shauli Genish</h3>
 </div>
     <h3>Problem Statement</h3>
     <p>
